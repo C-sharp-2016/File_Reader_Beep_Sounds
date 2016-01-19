@@ -1,0 +1,9 @@
+c:\users\jesus\documents\visual studio 2015\Projects\FileReader\FileReader\bin\Debug\FileReader.exe.config
+c:\users\jesus\documents\visual studio 2015\Projects\FileReader\FileReader\bin\Debug\FileReader.exe
+c:\users\jesus\documents\visual studio 2015\Projects\FileReader\FileReader\bin\Debug\FileReader.pdb
+c:\users\jesus\documents\visual studio 2015\Projects\FileReader\FileReader\obj\Debug\FileReader.csprojResolveAssemblyReference.cache
+c:\users\jesus\documents\visual studio 2015\Projects\FileReader\FileReader\obj\Debug\FileReader.exe
+c:\users\jesus\documents\visual studio 2015\Projects\FileReader\FileReader\obj\Debug\FileReader.pdb
+E:\c-sharp\File_Reader_Beep_Sounds\FileReader\bin\Debug\FileReader.exe.config
+E:\c-sharp\File_Reader_Beep_Sounds\FileReader\obj\Debug\FileReader.exe
+E:\c-sharp\File_Reader_Beep_Sounds\FileReader\obj\Debug\FileReader.pdb
